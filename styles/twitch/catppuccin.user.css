@@ -200,6 +200,12 @@
       color: @text;
     }
 
+    /* Loading spinner */
+
+    div.tw-loading-spinner div {
+      color: @text;
+    }
+
     /* VOD time labels */
 
     /* div.vod-seekbar-time-labels p // does not work in clips */
@@ -238,12 +244,6 @@
 
     div.player-overlay-background h4 {
       color: @subtext0 !important;
-    }
-
-    /* Loading spinner */
-
-    div.tw-loading-spinner div {
-      color: @text;
     }
 
     a.offline-recommendations-video-card p {
