@@ -188,6 +188,12 @@
       color: @text;
     }
 
+    /* Play/pause icon */
+
+    div.player-overlay-background figure {
+      color: @text;
+    }
+
     /* VOD time labels */
 
     /* div.vod-seekbar-time-labels p // does not work in clips */
