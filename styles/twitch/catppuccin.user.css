@@ -182,6 +182,12 @@
       color: @text;
     }
 
+    /* Clips metadata */
+
+    a[data-test-selector="clips-recommendation-view-rec-link"] div {
+      color: @text !important;
+    }
+
     /* DMCA warning */
 
     div.muted-segments-alert__content p {
