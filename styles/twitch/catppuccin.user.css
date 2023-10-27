@@ -240,6 +240,12 @@
       color: @subtext0 !important;
     }
 
+    /* Loading spinner */
+
+    div.tw-loading-spinner div {
+      color: @text;
+    }
+
     a.offline-recommendations-video-card p {
       color: @text;
     }
