@@ -190,7 +190,8 @@
 
     /* VOD time labels */
 
-    div.vod-seekbar-time-labels p {
+    /* div.vod-seekbar-time-labels p // does not work in clips */
+    p.ckwzla {
       color: @text !important;
     }
 
